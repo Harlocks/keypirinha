@@ -1,6 +1,6 @@
 <div align="center">
     <img src="assets/images/keypirinha.png">
-    Uma configuração do <a href="https://keypirinha.com">Keypirinha</a>, organizada, simplificada e documentada em Português.
+    <p> Uma configuração do <a href="https://keypirinha.com">Keypirinha</a>, organizada, simplificada e documentada em Português.</p>
 </div>
 
 ![](assets/images/warnLine.png)
