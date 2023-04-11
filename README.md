@@ -4,7 +4,9 @@
 </div>
 
 ![](assets/images/warnLine.png)
+<div align="center">
 
 ⚠️ ɪ ᴀᴍ ɴᴏᴛ ᴛʜᴇ ᴄʀᴇᴀᴛᴏʀ ᴏꜰ ᴋᴇʏᴘɪʀɪɴʜᴀ. ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴀ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴏꜰ ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ ꜰɪʟᴇꜱ ᴀɴᴅ ᴍᴏᴅɪꜰɪᴄᴀᴛɪᴏɴꜱ.
+</div>
 
 ![](assets/images/warnLine.png)
