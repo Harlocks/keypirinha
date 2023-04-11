@@ -5,7 +5,6 @@
 
 ![](assets/images/warnLine.png)
 
-```
-OBS: I am not the creator of Keypirinha. This is just a repository of configuration files and modifications.
-```
+⚠️ ɪ ᴀᴍ ɴᴏᴛ ᴛʜᴇ ᴄʀᴇᴀᴛᴏʀ ᴏꜰ ᴋᴇʏᴘɪʀɪɴʜᴀ. ᴛʜɪꜱ ɪꜱ ᴊᴜꜱᴛ ᴀ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴏꜰ ᴄᴏɴꜰɪɢᴜʀᴀᴛɪᴏɴ ꜰɪʟᴇꜱ ᴀɴᴅ ᴍᴏᴅɪꜰɪᴄᴀᴛɪᴏɴꜱ.
+
 ![](assets/images/warnLine.png)
